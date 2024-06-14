@@ -7,9 +7,9 @@
   },
   "private": true,
   "dependencies": {
-    "minimatch": "^3.0.0",
+    "minimatch": "^3.0.5",
     "vscode-languageserver": "^5.0.3",
-    "semver": "^5.1.0",
+    "semver": "^5.7.2",
     "vscode-uri": "^1.0.1"
   },
   "devDependencies": {
@@ -17,7 +17,7 @@
     "@types/mocha": "^8.2.1",
     "@types/node": "^10.3.0",
     "@types/semver": "^5.3.30",
-    "mocha": "^6.2.3",
+    "mocha": "^10.4.0",
     "tslint": "^5.18.0",
     "typescript": "^3.0.1"
   },
